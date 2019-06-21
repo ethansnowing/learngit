@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git start
 Creating a new branch is quick AND simple.
 Exercise --no-ff git merge
+haha
